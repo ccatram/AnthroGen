@@ -1,6 +1,6 @@
 # AnthroGen
 
-This repo contains the code/scripts for the analyses presented in “TITLE” by Cataldo-Ramirez et al. (2025). See Cataldo-Ramirez et al. (2025) for a detailed discussion and recommended use.
+This repo contains the code/scripts for the analyses presented in “Improving GWAS performance in underrepresented groups by appropriate modeling of genetics, environment, and sociocultural factors” by Cataldo-Ramirez et al. (2025). See Cataldo-Ramirez et al. (in review -- will update upon publication) for a detailed discussion and recommended use.
 
 
 
