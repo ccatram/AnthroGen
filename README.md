@@ -15,4 +15,4 @@ Following the PCA described in Cataldo-Ramirez et al. (in review), the resulting
 
 ### GWAS summary statistics pooling
 
-Our environmentally-adjusted GWAS of height reflects the pooled results of 5 GWAS utilizing imputed environmental covariates. *GWAS_pool.R* demonstrates our use of Rubin's recombining rules to combine all GWAS outputs.
+Our environmentally-adjusted GWAS of height reflects the pooled results of 5 GWAS utilizing imputed environmental covariates. *GWAS_pool.md* demonstrates our use of Rubin's recombining rules to combine all GWAS outputs.
