@@ -1,6 +1,6 @@
 # AnthroGen
 
-This repo contains the code/scripts for the analyses presented in “Improving GWAS performance in underrepresented groups by appropriate modeling of genetics, environment, and sociocultural factors” by Cataldo-Ramirez et al. (in rview). See Cataldo-Ramirez et al. (will update upon publication) for a detailed discussion and recommended use.
+This repo contains the code/scripts for the analyses presented in “Improving GWAS performance in underrepresented groups by appropriate modeling of genetics, environment, and sociocultural factors” by Cataldo-Ramirez et al. (in review). See Cataldo-Ramirez et al. (will update upon publication) for a detailed discussion and recommended use. This preprint can be found on biorxiv: https://www.biorxiv.org/content/10.1101/2024.10.28.620716v1
 
 
 
