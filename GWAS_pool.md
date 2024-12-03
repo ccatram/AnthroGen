@@ -16,7 +16,7 @@ Per the guidance for using multiply imputed data, the results must then be poole
 
 *Also note that p-values reported in gcta are z-tests (relevant later)*
 
-``` R
+``` 
 I1 <- read.delim("~/path/to/gwas_I1.loco.mlma", header = TRUE)
 I2 <- read.delim("~/path/to/gwas_I2.loco.mlma", header = TRUE)
 I3 <- read.delim("~/path/to/gwas_I3.loco.mlma", header = TRUE)
