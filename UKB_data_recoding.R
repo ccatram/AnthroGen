@@ -492,8 +492,6 @@ DF$X1647.0.0 <- factor(DF$X1647.0.0,
 DF$Born.UK.Elsewhere <- factor(DF$X1647.0.0,
                                 levels = c("England", "Wales", "Scotland", "Northern Ireland", "Republic of Ireland", "Elsewhere"),
                                 labels = c("UK", "UK", "UK", "UK", "UK", "Elsewhere"))
-# UK Elsewhere 
-# 977      6986 
 
 # 1787.0.0 maternal smoking around birth; categorical
 is.na(DF$X1787.0.0) <- DF$X1787.0.0 == -3
