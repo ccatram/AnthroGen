@@ -28,7 +28,7 @@ I5 <- read.delim("~/path/to/gwas_I5.loco.mlma", header = TRUE)
 
 ## Rubin's Rules
 
-*See section 5.4 (Little & Rubine, 2002) for further info.*
+*See section 5.4 (Little & Rubin, 2002) for further info.*
 
 Combine or merge df's; here I used an index to ensure the SNPs were matched across outputs. cbind()/rbind() would work just as well.
 
