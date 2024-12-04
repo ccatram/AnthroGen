@@ -11,7 +11,7 @@ At the time of our UKB application, there were no resources available (or at lea
 
 ### SVM for genetic ancestry
 
-Following the PCA described in Cataldo-Ramirez et al. (in review), the resulting PCs were used as input for a support vector machine developed to better understand the genetic affinities among UKB participants. *SVM_for_gen.R* outlines this workflow.
+Following the PCA described in Cataldo-Ramirez et al. (in review), the resulting PCs were used as input for a support vector machine developed to better understand the genetic affinities among UKB participants. *SVM_for_gen.md* outlines this workflow.
 
 ### GWAS summary statistics pooling
 
