@@ -22,7 +22,7 @@ Qualitative assessments of PCA visualizations are commonly used to construct GWA
 
 ## Data
 
-After running the PCA (I used FRAPOSA [Zhang et al., 2020]), read in the PC scores of your sample and references. UKB data were projected onto 1000 Genomes data, see Cataldo-Ramirez et al. [PREPRINT] for further info. \
+After running the PCA (I used FRAPOSA [Zhang et al., 2020]), read in the PC scores of your sample and references. UKB data were projected onto 1000 Genomes data, see Cataldo-Ramirez et al. [PREPRINT] for further info. 
 
 ``` R
 UKB <- read.table("~/path/to/UKB_PCA.pcs", header = F) #UK Biobank data
