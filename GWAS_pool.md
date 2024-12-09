@@ -1,4 +1,4 @@
-*Authors: CCR*
+*Authors: Chelsea Cataldo-Ramirez & Mark N. Grote*
 
 ------------------------------------------------------------------------
 
